@@ -1,0 +1,13 @@
+{
+  "name": "demi-capsule",
+  "version": "1.0.4",
+  "description": "Prepare a stage of your work for registration in the DEMI Registry, continue a registered work by its UPL code, and verify a file against its record. The person registers on the DEMI Capsule page; the plugin never registers, pays or holds keys.",
+  "author": {
+    "name": "UplitAU Pty Ltd",
+    "email": "ramsmile@uplitau.com",
+    "url": "https://www.ramsmile.com/demicapsule"
+  },
+  "homepage": "https://www.ramsmile.com/demicapsule",
+  "license": "MIT",
+  "keywords": ["provenance", "registry", "timestamp", "sha-256", "ai-assisted work", "research", "writing"]
+}
