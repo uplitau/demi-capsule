@@ -35,6 +35,10 @@ Maintained by UplitAU Pty Ltd, Sydney, Australia · https://www.ramsmile.com/dem
 
 The plugin itself collects, stores and sends no data. It runs inside your AI assistant, under that assistant's own privacy terms. Files you verify are fingerprinted by the assistant and are not sent to DEMI. Public DEMI records contain no email addresses or owner keys; sealed records show only the code, fingerprint and time. Full privacy notice: https://www.ramsmile.com/demicapsule. Contact: ramsmile@uplitau.com.
 
+## Terms
+
+Terms of Use: https://www.ramsmile.com/demicapsule-terms
+
 ## Licence
 
 MIT. See `LICENSE`.
