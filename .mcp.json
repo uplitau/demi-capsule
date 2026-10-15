@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "demi-registry": {
+      "type": "http",
+      "url": "https://demi-proxy.flat-bonus-ffc5.workers.dev/mcp"
+    }
+  }
+}
